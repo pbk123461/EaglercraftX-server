@@ -64,3 +64,11 @@
 [15:49:39] [Netty Worker IO Thread #2/INFO]: [/192.168.177.11:35278|pbk123461] -> UpstreamBridge has disconnected
 [15:49:39] [Netty Worker IO Thread #2/INFO]: [pbk123461] disconnected with: Proxy lost connection to server.
 [15:49:39] [Netty Worker IO Thread #2/INFO]: [/192.168.177.11:35278|pbk123461] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:04:02] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/192.168.50.137:43796]: Connected via websocket
+[16:04:02] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/192.168.50.137:43796]: Origin header is https://8081-rkninc-eaglercraftserve-a4684tn2cy3.ws-us110.gitpod.io
+[16:04:02] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/192.168.50.137:43796]: Logged in as 'DeevDeev975'
+[16:04:02] [Netty Worker IO Thread #5/INFO]: [/192.168.50.137:43796|DeevDeev975] -> UpstreamBridge has connected
+[16:04:02] [Netty Worker IO Thread #5/INFO]: [DeevDeev975|/192.168.50.137:43796] <-> ServerConnector [lobby] has connected
+[16:04:11] [Netty Worker IO Thread #5/INFO]: [/192.168.50.137:43796|DeevDeev975] -> UpstreamBridge has disconnected
+[16:04:11] [Netty Worker IO Thread #5/INFO]: [DeevDeev975] disconnected with: Proxy lost connection to server.
+[16:04:11] [Netty Worker IO Thread #5/INFO]: [/192.168.50.137:43796|DeevDeev975] <-> DownstreamBridge <-> [lobby] has disconnected
